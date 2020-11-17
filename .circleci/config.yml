@@ -23,7 +23,6 @@ jobs:
       - run:
           name: rake?
           command: rake
-      - rake
 
 workflows:
   version: 2.1
